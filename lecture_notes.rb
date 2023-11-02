@@ -2,3 +2,10 @@
 
 # git
 # test
+
+#  remotes
+# 
+#
+#
+#
+#
